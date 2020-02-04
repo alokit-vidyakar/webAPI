@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/alokit/.dotnet/store/|arch|/|tfm|",
+      "/home/alokit/.nuget/packages"
+    ]
+  }
+}
